@@ -7,8 +7,8 @@ This repository contains the code for numerical experiments accompanying the res
 The paper investigates how **Transformers can mimic Preconditioned Gradient Descent (PGD) in in-context learning**, with both theoretical analysis and empirical experiments. The methodology is explained in the paper. My findings highlight the similarities and differences between in-context learning and classical optimization methods.
 
 The code in this repository is largely based on the theory from:
-- ["Transformers learn in-context by gradient descent" (von Oswald et al., 2023)](https://arxiv.org/abs/2306.02469)
-- ["Transformers learn to implement preconditioned gradient descent" (Ahn et al., 2023)](https://arxiv.org/abs/2310.08487)
+- ["Transformers learn in-context by gradient descent" (von Oswald et al., 2023)](https://arxiv.org/abs/2212.07677)
+- ["Transformers learn to implement preconditioned gradient descent" (Ahn et al., 2023)](https://arxiv.org/abs/2306.00297)
 
 ## Running Experiments
 
